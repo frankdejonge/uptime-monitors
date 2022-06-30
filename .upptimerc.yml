@@ -1,6 +1,6 @@
 # Change these first
 owner: frankdejonge # Your GitHub organization or username, where this repository lives
-repo: uptime-monirots # The name of this repository
+repo: uptime-monitors # The name of this repository
 
 sites:
   - name: Personal Homepage
